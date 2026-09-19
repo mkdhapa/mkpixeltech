@@ -4,7 +4,6 @@ description: 'What quantum computers actually are, why they matter, and how they
 pubDate: 'Sep 15 2026'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
-
 # What is Quantum Technology?
 
 Imagine a computer that doesn't just calculate with 0s and 1s, but explores **millions of possibilities at the same time**. That's the core idea of quantum technology.
